@@ -1,0 +1,27 @@
+.Link{
+    text-decoration: none;
+    font-family: sans-serif;
+    display: inline-block;
+}
+.Para{
+    color: red;
+    display: inline;
+    font-family: sans-serif;
+    font-size: 15px;
+    display: inline-block;
+}
+span{
+    text-decoration: line-through;
+    color: black;
+    font-size: 10px;
+    display: inline-block;
+}
+
+
+.Image{
+    display: inline-block;
+}
+
+
+
+   
